@@ -1,0 +1,16 @@
+nbproject/
+.idea/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
+*.iml
+out
+gen
+*.cache
+*.log
+/config.inc.php
+build
+version
